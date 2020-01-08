@@ -3,4 +3,10 @@ Welcome to kitchen
 chicken
 kheer
 pasta
+beans
+
+Fries
+Pizza
+
+
 thanku
